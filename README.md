@@ -33,8 +33,8 @@
 ## :dragon:介绍
 &emsp;&emsp; 灵感来自[TimWhitle](https://github.com/timwhitez)的crawlergo_x_XRAY项目，js文件中又经常有一些url接口等，于是就想将这些信息分离出来，并依次交给xray做扫描处理。那么从js中提取一些信息的项目我也有看很多比如jsfinder，jsinfo，linkfinder等等
 最后我选择了针对linkfinder进行围绕我的想法进行修改（同时解决了linkfinder无法在win下使用的bug），这才有了本项目中的jslink.py。
-  jslink.py将从网站的js中提取接口和url，jslink_Xray.py将结果用request去发到已经启动被动监听的xray中，再由xray进行扫描。
-  建议在windows平台使用。
+&emsp;&emsp; jslink.py将从网站的js中提取接口和url，jslink_Xray.py将结果用request去发到已经启动被动监听的xray中，再由xray进行扫描。
+&emsp;&emsp; 建议在windows平台使用。
 
 ---
 
