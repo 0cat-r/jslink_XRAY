@@ -66,7 +66,7 @@ if __name__ == '__main__':
         
     author: 0cat
     version: 1.0
-    Github:         
+    Github: https://github.com/0cat-r/jslink_XRAY        
         """)
     init_output()
     targets = open("targets.txt")
