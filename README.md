@@ -89,9 +89,9 @@ xray_windows_amd64.exe webscan --listen 127.0.0.1:7777 --html-output xray-testph
 * https://github.com/GerbenJavado/LinkFinder
 
 
+## Stargazers over time
 
----
-[![Stargazers over time](https://starchart.cc/0cat-r/jslink_XRAY.svg)](https://starchart.cc/0cat-r/jslink_XRAY) 
+[![Stargazers over time](https://starchart.cc/0cat-r/jslink_XRAY.svg)](https://starchart.cc/0cat-r/jslink_XRAY)
 
 
 
