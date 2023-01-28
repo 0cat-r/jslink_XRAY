@@ -66,15 +66,6 @@ xray_windows_amd64.exe webscan --listen 127.0.0.1:7777 --html-output xray-testph
 
 ---
 
-## :memo: TODO
-&emsp;&emsp; jslink_XRAY这个项目还会修改优化以让结果更丰富，功能更强大，于是我会一直在路上，更新并完善这个项目
-
-- [ ]  js正则处理优化，以显示更多接口
-- [ ]  批量本地js文件一键扫描并交给xray
-- [ ]  增加webpack判断并可以在webpack中寻找接口（目前无法处理webpack的站点）
-- [ ]  等等
-
-
 ----
 ## 📝致谢！
 
