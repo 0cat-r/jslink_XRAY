@@ -37,6 +37,9 @@
 &emsp;&emsp; jslink.py将从网站的js中提取接口和url，jslink_Xray.py将结果用request去发到已经启动被动监听的xray中，再由xray进行扫描。
 &emsp;&emsp; 建议在windows平台使用。
 
+-----
+已经2023年了，写这个脚本的时候rad还没出来，现在大家可以使用更方便，兼容性更高的rad + xray的方案了哦。我这个烂脚本已经积灰很久了
+
 ---
 
 
